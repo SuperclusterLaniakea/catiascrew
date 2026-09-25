@@ -1,0 +1,5 @@
+# CATIA 螺母参数化建模工具 依赖
+# 运行环境：Windows + CATIA V5-6R2022（已安装并启用自动化/COM）
+PyQt6>=6.4
+pywin32>=306
+python-docx>=1.1.0
